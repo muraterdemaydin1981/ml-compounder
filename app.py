@@ -3,7 +3,7 @@ import pandas as pd
 
 from model_loader import load_assets
 from predictor import predict_recipe
-from optimizer import optimize_random_search, check_spec
+
 
 st.set_page_config(page_title="ML Compounder", layout="wide")
 
